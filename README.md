@@ -36,7 +36,7 @@ Menu Performance Analysis, Order Trends Analysis, Revenue & Profitability Analys
 16. What were the top 5 orders that spent the most money?
 17. View the details of the highest spent order. What insights can you gather from it?
 18. View the details of the top 5 highest spend orders. What insights can you gather from it?
-# conclusion
+# Conclusion
 By analyzing restaurant sales data, we can make informed business decisions to:
 Optimize menu pricing, Identify customer preferences, Improve restaurant operations.
 
