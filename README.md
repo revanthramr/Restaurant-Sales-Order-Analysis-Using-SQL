@@ -12,10 +12,7 @@ menu_items – Contains details of food items, including item name, category, an
 order_details – Records customer orders, including order ID, order date, order time, and the items purchased.
 Each table is linked using the menu_item_id field, allowing us to analyze how different food items contribute to overall sales.
 # Analyses Conducted
-Menu Performance Analysis
-Order Trends Analysis
-Revenue & Profitability Analysis
-Customer Buying Patterns
+Menu Performance Analysis, Order Trends Analysis, Revenue & Profitability Analysis, Customer Buying Patterns.
 # Business Questions Answered
 ## General Restaurant Insights
 1. View the Menu items table.
